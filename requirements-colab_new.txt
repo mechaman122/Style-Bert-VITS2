@@ -1,6 +1,7 @@
 accelerate
 cmudict
 cn2an
+faster-whisper
 g2p_en
 gradio>=4.32
 jieba
@@ -25,3 +26,4 @@ torchaudio==2.6
 torchvision
 transformers
 umap-learn
+
